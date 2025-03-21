@@ -1,0 +1,24 @@
+Variância explicada
+0.52269
+Erro absoluto de média
+10.608
+Erro de percentual absoluto de média
+24.524
+Erro mediano absoluto
+10.039
+Erro absoluto de média normalizado
+0.14733
+Erro mediano absoluto normalizado
+0.13943
+Erro de quadrado de média de raiz normalizado
+0.17111
+Erro de log de quadrado de média raiz normalizado
+0.16403
+Pontuação R2
+0.45115
+Erro de raiz do valor quadrático médio
+12.320
+Erro de log de raiz do valor quadrático médio
+0.27155
+Correlação de Spearman
+0.72512

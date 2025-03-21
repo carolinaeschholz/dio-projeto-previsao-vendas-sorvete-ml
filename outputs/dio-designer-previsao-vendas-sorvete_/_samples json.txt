@@ -1,0 +1,9 @@
+[
+  {
+    "Mean_Absolute_Error": 10.635949975083635,
+    "Root_Mean_Squared_Error": 12.673895888595135,
+    "Relative_Squared_Error": 0.5083163123184933,
+    "Relative_Absolute_Error": 0.7090633316722423,
+    "Coefficient_of_Determination": 0.4916836876815067
+  }
+]

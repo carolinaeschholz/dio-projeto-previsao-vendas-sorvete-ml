@@ -1,0 +1,25 @@
+{
+  "columnAttributes": [
+    {
+      "name": "Temperatura (\u00b0C)",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "float64",
+        "isNullable": false
+      }
+    },
+    {
+      "name": "Vendas de Sorvete",
+      "type": "Numeric",
+      "isFeature": true,
+      "elementType": {
+        "typeName": "int64",
+        "isNullable": false
+      }
+    }
+  ],
+  "featureChannels": [],
+  "labelColumns": {},
+  "scoreColumns": {}
+}
